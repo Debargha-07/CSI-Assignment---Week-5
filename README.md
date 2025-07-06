@@ -37,9 +37,9 @@ Visualizations saved in `.png` format:
 - 🔥 Top Correlated Features  
 - 🧼 Missing Value Chart  
 
-All visualizations generated during EDA (like missing value charts, correlation heatmaps, and distribution plots) are included in a separate PDF report.
+All visualizations generated during EDA (like missing value charts, correlation heatmaps, and distribution plots) are included in a seperate pdf file named EDA_Plots.
 
-📥 Download All Plots Report: EDA_Plots.pdf
+📥 [Click here to view EDA_Plots.pdf](EDA_Plots.pdf)
 
 
 ---
